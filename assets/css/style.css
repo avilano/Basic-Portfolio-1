@@ -1,0 +1,136 @@
+header {
+    border-bottom: 1px solid #cccccc;
+    padding: 50px;
+    margin:0;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background: #ffffff;
+    top: 0;
+}
+
+body {
+    overflow-y: hidden;
+}
+
+h1 {
+    padding:30px;
+    background-color: #4aaaa5;
+    display: inline;
+    color: white;
+    text-align: center;
+    margin-left: 120px;
+    margin-bottom: 0 auto;
+    position: relative;
+    top: 15px;
+    right: 28px;
+}
+
+#A {
+    position: absolute;
+    text-align: right;
+    top:10px;
+    right:300px;
+    padding-top: 40px;
+}
+
+#B {
+    position: absolute;
+    text-align: right;
+    top:10px;
+    right:220px;
+    padding-top: 40px;
+}
+
+#C {
+    position: absolute;
+    text-align: right;
+    top:10px;
+    right:150px;
+    padding-top:40px;
+}
+
+.V  {
+    width:100%;
+    background:#cccccc;
+    bottom:0;
+}
+
+h2 {
+    margin-left: 25px;
+    border-bottom:1px solid #dddddd;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #4aaaa5;
+}
+
+.w3-container {
+    background-color: #ffffff;
+    padding: 60px;
+    padding-top: 25px;
+    padding-bottom: 40px;
+    border:60px;
+    border-style: solid;
+    border-color:#cccccc;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#bio-image {
+    float: left;
+    margin-left: 25px;
+    margin-right: 25px;
+}
+
+.A {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    background: white;
+}
+
+#Part1 {
+    Padding-top: 40px;
+    padding-right: 30px;
+    width:auto;
+    text-align: justify;
+}
+
+#Part2 {
+    Padding-top: 10px;
+    padding-right: 30px;
+    padding-left: 25px;
+    width:auto;
+    text-align: justify;
+}
+
+#Part3 {
+    padding-right: 30px;
+    padding-left: 25px;
+    width:auto;
+    text-align: justify;
+}
+
+#W {
+    Padding-top:30px;
+    text-align-last: center;
+    background: #666666;
+    border-top: 2px solid #4aaaa5;
+    bottom:0;
+    width: 99%;
+    position: fixed;
+    text-align: center;
+}
+
+.container  {
+    padding: 150px;
+    padding-top:0px;
+    padding-bottom: 0px;
+    padding-right: 0px;
+    padding-left: 0px;
+    margin-right: 0px;
+    background: #ffffff;
+    border: 60px;
+    border-style: solid;
+    border-color:#cccccc;
+    margin: 0%;
+}
+
+.Y {
+    margin-left:80px;
+}
